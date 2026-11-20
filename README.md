@@ -105,7 +105,7 @@ This project helps improve practical knowledge of:
 
 ## 👨‍💻 Author
 
-**Pradipta Raditya**
+**Kinervaaa**
 
 GitHub: [@pradipta-web](https://github.com/pradipta-web)
 
